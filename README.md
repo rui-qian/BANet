@@ -8,7 +8,7 @@ As of Apr. 17th, 2021, [1<sup>st</sup>](http://www.cvlibs.net/datasets/kitti/eva
 [\[elsevier\]](https://doi.org/10.1016/j.patcog.2022.108524)
 [\[code\]](https://github.com/rui-qian/BADet)
 
-*\*We leave this home page only for the ease of reference of [graduation thesis](https://bslib.ruc.edu.cn/docinfo.action)*. 
+*\*We leave this home page only for the ease of reference of [graduation thesis](https://bslib.ruc.edu.cn/)•基于点云的边界感知3D目标检测*. 
 Please refer to [\[BADet\]](https://github.com/rui-qian/BADet).
 ## Citation
 If you find this code useful in your research, please consider citing our work:

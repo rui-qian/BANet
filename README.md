@@ -1,5 +1,5 @@
 ## BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022)
-As of Apr. 17th, 2021, [1<sup>st</sup>](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48db930a7077e9925311b2539c21aed7541b7295) place in KITTI BEV detection leaderboard and on par performance on KITTI 3D detection leaderboard. The detector can run at 7.1 FPS. 
+As of Apr. 17th, 2021, [1<sup>st</sup>](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48db930a7077e9925311b2539c21aed7541b7295) place in KITTI BEV detection leaderboard and on par performance on KITTI 3D detection leaderboard among all published literature. The detector can run at 7.1 FPS. 
 
 **Authors**: [Rui Qian](https://github.com/rui-qian), [Xin Lai](https://github.com/laiguzi), 
 [Xirong Li](https://github.com/li-xirong)
@@ -13,12 +13,14 @@ Please refer to [\[BADet\]](https://github.com/rui-qian/BADet) for more details.
 ## Citation
 If you find this code useful in your research, please consider citing our work:
 ```
-@InProceedings{qian2022pr,
+@inproceedings{qian_2022_PR,
+title = {{BADet}: Boundary-Aware 3D Object Detection from Point Clouds},
+journal = {Pattern Recognition},
+volume = {125},
+pages = {108524},
+year = {2022},
+publisher={Elsevier},
 author = {Rui Qian and Xin Lai and Xirong Li},
-title = {BADet: Boundary-Aware 3D Object Detection from Point Clouds},
-booktitle = {Pattern Recognition (PR)},
-month = {January},
-year = {2022}
 }
 @misc{qian20213d,
 title={3D Object Detection for Autonomous Driving: A Survey}, 

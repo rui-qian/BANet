@@ -8,7 +8,7 @@ As of Apr. 17th, 2021, [1<sup>st</sup>](http://www.cvlibs.net/datasets/kitti/eva
 **Authors**: [Rui Qian](https://github.com/rui-qian), [Xin Lai](https://github.com/laiguzi), 
 [Xirong Li](https://github.com/li-xirong)
 
-[\[arXiv\]](https://arxiv.org/pdf/2104.10330.pdf)
+[\[arXiv\]](https://arxiv.org/abs/2104.10330)
 [\[elsevier\]](https://doi.org/10.1016/j.patcog.2022.108524)
 [\[code\]](https://github.com/rui-qian/BADet)
 

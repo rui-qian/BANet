@@ -14,7 +14,7 @@ As of Apr. 17th, 2021, [1<sup>st</sup>](http://www.cvlibs.net/datasets/kitti/eva
 
 *\*We leave this home page only for the ease of reference of [graduation thesis](https://bslib.ruc.edu.cn/)•《基于点云的边界感知3D目标检测》*. 
 
-**Please refer to [\[https://github.com/rui-qian/BADet\]](https://github.com/rui-qian/BADet) for more details.**
+**Please refer to [https://github.com/rui-qian/BADet](https://github.com/rui-qian/BADet) for more details.**
 ## Citation
 If you find this code useful in your research, please consider citing our work:
 ```

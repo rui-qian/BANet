@@ -27,12 +27,13 @@ year = {2022},
 publisher={Elsevier},
 author = {Rui Qian and Xin Lai and Xirong Li},
 }
-@misc{qian20213d,
-title={3D Object Detection for Autonomous Driving: A Survey}, 
-author={Rui Qian and Xin Lai and Xirong Li},
-year={2021},
-eprint={2106.10823},
-archivePrefix={arXiv},
-primaryClass={cs.CV}
+@inproceedings{qian_2022pr_survey,
+title={{3D} Object Detection for Autonomous Driving: A Survey}, 
+booktitle = {Pattern Recognition},
+volume = {130},
+pages = {108796},
+year = {2022},
+publisher={Elsevier},
+author = {Rui Qian and Xin Lai and Xirong Li},
 }
 ```
